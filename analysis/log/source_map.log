@@ -1,0 +1,3 @@
+destination | source
+input/lib | /Users/zahedian/Documents/template/lib
+input/data_cleaned.csv | /Users/zahedian/Documents/template/data/output/data_cleaned.csv
