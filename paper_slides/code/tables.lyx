@@ -97,7 +97,7 @@ status open
 Table Title
 \begin_inset CommandInset label
 LatexCommand label
-name "tab:regression"
+name "tab:regression1"
 
 \end_inset
 
